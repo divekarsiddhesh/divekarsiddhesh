@@ -1,11 +1,9 @@
 Aspiring Full Stack Developer | Tech Enthusiast | Passionate about Creating Seamless User Experiences
 
-🌐 Transitioning from Commerce field to the exciting world of Information Technology with a focus on becoming a skilled Full Stack Developer.
 
 💻 Committed to acquiring a comprehensive understanding of both front-end and back-end technologies to build robust, user-friendly web applications.
 
-📚 Actively expanding my technical skill set in areas such as HTML5, CSS3, JavaScript, Data Structures , Algorithms,
-Python, Node.js, React, and database management.
+📚 Actively expanding my technical skill set in areas such as MERN Stack , Database management ,Data Structures,Algorithms.
 
 🔍 Strong problem-solving abilities combined with a keen eye for design and a drive to create seamless user experiences.
 
