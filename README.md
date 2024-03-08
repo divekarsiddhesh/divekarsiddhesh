@@ -1,9 +1,7 @@
-Aspiring Full Stack Developer | Tech Enthusiast | Passionate about Creating Seamless User Experiences
+Full Stack Developer | Tech Enthusiast | Passionate about Creating Seamless User Experiences
 
 
 💻 Committed to acquiring a comprehensive understanding of both front-end and back-end technologies to build robust, user-friendly web applications.
-
-📚 Actively expanding my technical skill set in areas such as MERN Stack , Database management ,Data Structures,Algorithms.
 
 🔍 Strong problem-solving abilities combined with a keen eye for design and a drive to create seamless user experiences.
 
