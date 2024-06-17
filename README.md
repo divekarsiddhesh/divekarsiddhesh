@@ -11,7 +11,7 @@ Successfully developed and maintained backend systems for International projects
 
 📢 Excellent communication skills and a passion for translating complex technical concepts into easily understandable terms for clients and stakeholders.
 
-📧 Let's connect! I'm open to networking, mentorship, and discussing exciting opportunities in the field of Full Stack Development.
+📧 Let's connect! I'm open to networking, mentorship, and discussing exciting opportunities in the field of Software Development.
 
 <!---
 divekarsiddhesh/divekarsiddhesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
