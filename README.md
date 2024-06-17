@@ -1,6 +1,3 @@
-Backend Developer | Tech Enthusiast | Passionate about Creating Seamless User Experiences
-
-
 💻Backend Engineer with 1+ Years of experience |Tech Enthusiast | Passionate about Creating Seamless Server-Side Experiences.
 Successfully developed and maintained backend systems for International projects and Indian Government projects , ensuring high performance and scalability. Performed multiple API's for Login Authentications, Educational platforms, E-library and many more
 
