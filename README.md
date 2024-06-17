@@ -1,9 +1,8 @@
-Full Stack Developer | Tech Enthusiast | Passionate about Creating Seamless User Experiences
+Backend Developer | Tech Enthusiast | Passionate about Creating Seamless User Experiences
 
 
-💻 Committed to acquiring a comprehensive understanding of both front-end and back-end technologies to build robust, user-friendly web applications.
-
-🔍 Strong problem-solving abilities combined with a keen eye for design and a drive to create seamless user experiences.
+💻Backend Engineer with 1+ Years of experience |Tech Enthusiast | Passionate about Creating Seamless Server-Side Experiences.
+Successfully developed and maintained backend systems for International projects and Indian Government projects , ensuring high performance and scalability. Performed multiple API's for Login Authentications, Educational platforms, E-library and many more
 
 🌱 Passionate about staying up-to-date with the latest trends and best practices in web development, continuously seeking opportunities to learn and grow.
 
@@ -14,8 +13,6 @@ Full Stack Developer | Tech Enthusiast | Passionate about Creating Seamless User
 🌟 Actively engaged in online coding communities, attending workshops, and participating in hackathons to refine my programming skills.
 
 📢 Excellent communication skills and a passion for translating complex technical concepts into easily understandable terms for clients and stakeholders.
-
-🏆 Seeking opportunities for internships or entry-level positions as a Full Stack Developer to further develop my skills and contribute to the growth of innovative tech companies.
 
 📧 Let's connect! I'm open to networking, mentorship, and discussing exciting opportunities in the field of Full Stack Development.
 
