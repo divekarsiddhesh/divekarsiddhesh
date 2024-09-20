@@ -1,4 +1,4 @@
-Overall 3+ Years of experience. Worked on International and Indian Government projects.
+Overall 3+ Years of experience. 
 2.5 years of experience as Business Analyst in the IT industry.
 Expertise in full software life-cycle implementation, writing BRD/FRD/handling change request/supporting
 development team Expert understanding of SDLC processes and Agile flavored development methodologies
